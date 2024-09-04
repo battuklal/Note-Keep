@@ -1,3 +1,3 @@
 # Note-Keep
 
-Visit the site at : https://riso-gg.github.io/Note-Keep/
+Visit the site at : https://battuklal.github.io/Note-Keep/
